@@ -1,0 +1,18 @@
+@import url(https://fonts.google.com/specimen/Poppins);
+body{
+    font-family:'roboto',sans-serif ;
+    margin: 0;
+    background-color: black;
+}
+p{
+    background-color:wheat;
+    display: : inline-flex;
+    width: 200px;
+    height: 60px;
+    font-size: 20px;    
+    justify-content: center;
+    margin=0;
+    align-items: center;
+
+
+}
